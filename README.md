@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-ZhixuanWu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhixuan-wu126/)](https://www.linkedin.com/in/zhixuan-wu126/) 
+
 - I'm currently studying Computer Science at Carnegie Mellon University
 - I'm interested in Computer Graphics and Multimedia Design and Development
 - I’m looking to collaborate on 2D/3D/VR/AR Games and Interactive Media Projects
 - How to reach me: zhixuanw@andrew.cmu.edu
-- Pronouns: she/they
+- Pronouns: she/they 
