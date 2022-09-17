@@ -1,4 +1,4 @@
-### [Hi there](https://cims.nyu.edu/~zw1887/) :D
+### Hi there :D
 
 <!--
 **zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently studying Computer Science at Carnegie Mellon University
+- I'm interested in Computer Graphics and Multimedia Design and Development
+- I’m looking to collaborate on 2D/3D/VR/AR Games and Interactive Media Projects
+- How to reach me: zhixuanw@andrew.cmu.edu
+- Pronouns: she/they
