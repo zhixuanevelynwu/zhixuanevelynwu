@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - I'm interested in Computer Graphics and Multimedia Design and Development
 - I’m looking to collaborate on 2D/3D/VR/AR Games and Interactive Media Projects
 - How to reach me: zhixuanw@andrew.cmu.edu
-- Pronouns: she/they 
