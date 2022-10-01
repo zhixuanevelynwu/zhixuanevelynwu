@@ -1,4 +1,4 @@
-### Hi there :D
+### Hi there 🥸
 
 <!--
 **zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - I'm currently studying Computer Science at Carnegie Mellon University
 - I'm interested in Computer Graphics and Multimedia Design and Development
 - I’m looking to collaborate on 2D/3D/VR/AR Games and Interactive Media Projects
-- Visit my [personal website](http://33v335.com/) to view more of my works!
+- Visit my [personal website](http://33v335.com/) to view more of my works
 - How to reach me: zhixuanw@andrew.cmu.edu
