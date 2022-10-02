@@ -1,4 +1,4 @@
-### Hi there 🥸
+### Hi there :D
 
 <!--
 **zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-ZhixuanWu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhixuan-wu126/)](https://www.linkedin.com/in/zhixuan-wu126/) 
+[![Linkedin Badge](https://img.shields.io/badge/-EvelynWu-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhixuan-wu126/)](https://www.linkedin.com/in/zhixuan-wu126/) 
 
 - I'm currently studying Computer Science at Carnegie Mellon University
 - I'm interested in Computer Graphics and Multimedia Design and Development
