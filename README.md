@@ -1,20 +1,16 @@
 <div align="center">
+
+<b> Hi, I'm Evelyn</b>
+
+<div align="center">
+         
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhixuan-wu126/)](https://www.linkedin.com/in/zhixuan-wu126/) [![Gmail](https://img.shields.io/badge/Email-black?color=black&logo=gmail&logoColor=white)](mailto:zhixuanw@andrew.cmu.edu)
+         
 <img src="images/ghost.GIF" 
          alt="profile"
          height="40"
          width="40" />
-         <h2>
-<b> Hi, I'm Evelyn</b>
-</h2>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhixuan-wu126/)](https://www.linkedin.com/in/zhixuan-wu126/) [![Gmail](https://img.shields.io/badge/Email-black?color=black&logo=gmail&logoColor=white)](mailto:zhixuanw@andrew.cmu.edu)
 
 <!--
 **zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 - I'm currently studying Computer Science at Carnegie Mellon University
 - I'm interested in Computer Graphics and Multimedia Design and Development
 - I’m looking to collaborate on 2D/3D/VR/AR Games and Interactive Media Projects
