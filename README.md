@@ -11,6 +11,10 @@
          alt="profile"
          height="40"
          width="40" />
+<img src="images/farmer-chasing.GIF" 
+         alt="profile"
+         height="40"
+         width="40" />
 
 <!--
 **zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
