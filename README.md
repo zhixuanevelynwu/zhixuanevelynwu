@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently studying Computer Science at Carnegie Mellon University
-- I'm interested in Computer Graphics and Multimedia Design and Development
-- I’m looking to collaborate on 2D/3D/VR/AR Games and Interactive Media Projects
+- I'm Computer Science student at Carnegie Mellon University
+- I'm interested in system design and multimedia development
+- I’m looking to collaborate on 2D/3D/VR/AR Games and interactive media projects
 - Visit my [personal website](http://33v335.com/) to view more of my works
 
 </div>
