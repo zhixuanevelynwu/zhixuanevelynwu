@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a Computer Science student at Carnegie Mellon University
-- I'm interested in system design and multimedia development
+- I'm interested in algorithm design and multimedia development
 - I’m looking to collaborate on 2D/3D/VR/AR Games and interactive media projects
 - Visit my [personal website](http://33v335.com/) to view more of my works
 
