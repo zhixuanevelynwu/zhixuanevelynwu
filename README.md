@@ -5,7 +5,7 @@
 <div align="center">
          
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhixuan-wu126/)](https://www.linkedin.com/in/zhixuan-wu126/) [![Gmail](https://img.shields.io/badge/Email-black?color=black&logo=gmail&logoColor=white)](mailto:zhixuanw@andrew.cmu.edu)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelynn-wu/)](https://www.linkedin.com/in/evelynn-wu/) [![Gmail](https://img.shields.io/badge/Email-black?color=black&logo=gmail&logoColor=white)](mailto:zhixuanevelynwu@gmail.com)
          
 <img src="images/carrot-walking.gif" 
          alt="profile"
