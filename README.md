@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
